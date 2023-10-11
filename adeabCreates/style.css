@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+#Writing-ideas {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
